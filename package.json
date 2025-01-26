@@ -1,0 +1,10 @@
+{
+  "name": "bootcamp-todomvc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marcely Sastre",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^14.0.0"
+  }
+}
